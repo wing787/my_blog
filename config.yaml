@@ -78,11 +78,9 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/tsubasan_m"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/wing787"
 
   analytics:
     google:
@@ -115,7 +113,7 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: カテゴリー
       url: /categories/
       weight: 10
     - identifier: tags

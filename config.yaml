@@ -1,6 +1,6 @@
 baseURL: "https://wing787.github.io/my_blog/"
 publishDir: "docs"
-canonifyurls: false
+canonifyurls: true
 title: wing787's blog
 paginate: 5
 theme: PaperMod

@@ -1,5 +1,6 @@
 baseURL: "https://examplesite.com/"
 publishDir: "docs"
+canonifyurls: false
 title: wing787's blog
 paginate: 5
 theme: PaperMod

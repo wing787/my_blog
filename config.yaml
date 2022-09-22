@@ -121,7 +121,7 @@ menu:
   main:
     - identifier: profile
       name: Profile
-      url: /profile/
+      url: fixed/profile/
       weight: 5
     - identifier: posts
       name: Posts

@@ -1,6 +1,7 @@
 baseURL: "https://wing787.github.io/my_blog/"
 publishDir: "docs"
 canonifyurls: true
+languageCode: 'ja-jp'
 title: wing787's blog
 paginate: 5
 theme: PaperMod

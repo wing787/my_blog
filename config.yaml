@@ -58,10 +58,10 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: wing787
+    subtitle: "This is my blog"
+    imageUrl: "https://avatars.githubusercontent.com/u/42018587?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -113,7 +113,7 @@ params:
 menu:
   main:
     - identifier: categories
-      name: カテゴリー
+      name: category
       url: /categories/
       weight: 10
     - identifier: tags

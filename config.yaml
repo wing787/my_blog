@@ -125,15 +125,15 @@ menu:
       weight: 5
     - identifier: posts
       name: Posts
-      url: /posts/
+      url: posts/
       weight: 10
-    - identifier: categories
-      name: Category
-      url: /categories/
+    - identifier: search
+      name: Search
+      url: search/
       weight: 15
     - identifier: tags
       name: Tags
-      url: /tags/
+      url: tags/
       weight: 20
     - identifier: example
       name: example.org

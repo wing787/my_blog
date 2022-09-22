@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: my_blog
+title: wing787's blog
 paginate: 5
 theme: PaperMod
 
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: wing787
+    title: wing787's blog
     subtitle: "This is my blog"
     imageUrl: "https://avatars.githubusercontent.com/u/42018587?v=4"
     imageWidth: 120

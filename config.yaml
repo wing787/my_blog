@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://wing787.github.io/my_blog/"
 publishDir: "docs"
 canonifyurls: false
 title: wing787's blog

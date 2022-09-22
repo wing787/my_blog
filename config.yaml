@@ -62,8 +62,8 @@ params:
     title: wing787's blog
     subtitle: "GISやPythonなど日常的に触れている技術関係の備忘録"
     imageUrl: "https://avatars.githubusercontent.com/u/42018587?v=4"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 240
+    imageHeight: 240
     imageTitle: my image
     buttons:
       - name: Posts

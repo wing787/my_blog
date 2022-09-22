@@ -16,9 +16,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: wing787's blog
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, QGIS, GIS, Python, GeoAnalysis]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: wing787's blog
-    subtitle: "This is my blog"
+    subtitle: "GISやPythonなど日常的に触れている技術関係の備忘録"
     imageUrl: "https://avatars.githubusercontent.com/u/42018587?v=4"
     imageWidth: 120
     imageHeight: 120

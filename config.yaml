@@ -1,4 +1,5 @@
 baseURL: "https://examplesite.com/"
+publishDir: "docs"
 title: wing787's blog
 paginate: 5
 theme: PaperMod
@@ -70,7 +71,10 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: Qiita
+        url: "https://qiita.com/wing787"
 
+  # 上のprofile-modeがtureの時には無効になる
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
@@ -81,6 +85,7 @@ params:
       url: "https://twitter.com/tsubasan_m"
     - name: github
       url: "https://github.com/wing787"
+
 
   analytics:
     google:
@@ -112,18 +117,26 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: category
-      url: /categories/
+    - identifier: profile
+      name: Profile
+      url: /profile/
+      weight: 5
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 10
+    - identifier: categories
+      name: Category
+      url: /categories/
+      weight: 15
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: example
       name: example.org
       url: https://example.org
-      weight: 30
+      weight: 25
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

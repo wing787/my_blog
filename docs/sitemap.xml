@@ -2,11 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wing787.github.io/my_blog/fixed/profile/</loc>
+    <loc>https://wing787.github.io/my_blog/profile/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://wing787.github.io/my_blog/categories/</loc>
-  </url><url>
-    <loc>https://wing787.github.io/my_blog/fixed/</loc>
   </url><url>
     <loc>https://wing787.github.io/my_blog/search/</loc>
   </url><url>
